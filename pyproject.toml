@@ -27,7 +27,7 @@ classifiers = [
 dependencies = []
 
 [project.urls]
-Documentation = "https://github.com/Craig West/hatch-demo#readme"
+Documentation = "https://github.com/Python-Test-Engineer/yt-hatch"
 Issues = "https://github.com/Craig West/hatch-demo/issues"
 Source = "https://github.com/Craig West/hatch-demo"
 
